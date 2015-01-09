@@ -365,3 +365,8 @@ body {
 #idcontact{
   a:link    {color:#000000};
 }
+
+#download p {
+  text-align: left;
+  line-height: 1em;
+}
