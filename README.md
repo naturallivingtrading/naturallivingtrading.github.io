@@ -1,1 +1,0 @@
-# naturallivingtrading.github.io
